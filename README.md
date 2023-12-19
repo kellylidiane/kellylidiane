@@ -35,6 +35,6 @@ Meu nome é Kelly Lidiane, sou desenvolvedora Web desde 2017, já atuei no backe
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" /></code>
 
 **Idiomas:**
-<br /><img height="17" src="https://cdn-icons-png.flaticon.com/512/7561/7561893.png" /> <strong>Português:</strong> Fluente
-<br /><img height="17" src="https://cdn-icons-png.flaticon.com/512/10598/10598913.png" /> <strong>Inglês:</strong> Avançado
-<br /><img height="17" src="https://cdn-icons-png.flaticon.com/512/7562/7562024.png" /> <strong>Espanhol:</strong> Intermediário
+<br /><img height="16" src="https://cdn-icons-png.flaticon.com/512/7561/7561893.png" /> <strong>Português:</strong> Fluente
+<br /><img height="16" src="https://cdn-icons-png.flaticon.com/512/10598/10598913.png" /> <strong>Inglês:</strong> Avançado
+<br /><img height="16" src="https://cdn-icons-png.flaticon.com/512/7562/7562024.png" /> <strong>Espanhol:</strong> Intermediário
