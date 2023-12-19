@@ -16,7 +16,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/kellylidiane/kellylidiane/assets/36483878/e123955d-d5f8-4d38-8924-7fed0835f666" />
+<img align="right" width="200" alt="GIF" src="https://media1.giphy.com/media/2TjUu76UJQgSKFMNmI/giphy.gif?cid=ecf05e47xq7ef9mdwenpfxnd5olfhowt9digpn9ssr9cfv7y&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 Meu nome é Kelly Lidiane, sou desenvolvedora Web desde 2017, já atuei no backend com .NET e Python, mas atualmente meu foco é no frontend com React.js. Estou estudando desenvolvimento mobile.  
 
