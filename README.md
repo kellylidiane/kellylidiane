@@ -6,10 +6,10 @@
 <a href="mailto:k3gonzaga@gmail.com">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.linkedin.com/in/kellylid/">
+<a href="https://www.linkedin.com/in/kellylid/" target="_blank">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/kllelly/">
+<a href="https://www.instagram.com/kllelly/" target="_blank">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
@@ -18,12 +18,11 @@
 
 <img align="right" width="200" alt="GIF" src="https://media1.giphy.com/media/2TjUu76UJQgSKFMNmI/giphy.gif?cid=ecf05e47xq7ef9mdwenpfxnd5olfhowt9digpn9ssr9cfv7y&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-Meu nome é Kelly Lidiane, sou desenvolvedora Web desde 2017, já atuei no backend com .NET e Python, mas atualmente meu foco é no frontend com React.js. Estou estudando desenvolvimento mobile.  
+Meu nome é Kelly Lidiane, sou desenvolvedora Web desde 2017, já atuei no backend com C# e Python, mas atualmente meu foco maior é no frontend com React.js. Estou estudando desenvolvimento mobile.  
 
 
 
-
-**Languages and Tools:**
+**Linguagens e Ferramentas:**
 
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/js-icon-2048x2048-kbwt89q3.png" alt="Javascript" /></code>
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="Typescript" /></code>
@@ -34,3 +33,8 @@ Meu nome é Kelly Lidiane, sou desenvolvedora Web desde 2017, já atuei no backe
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="Jest" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" /></code>
+
+**Idiomas:**
+<br /><img height="17" src="https://cdn-icons-png.flaticon.com/512/7561/7561893.png" /> <strong>Português:</strong> Fluente
+<br /><img height="17" src="https://cdn-icons-png.flaticon.com/512/10598/10598913.png" /> <strong>Inglês:</strong> Avançado
+<br /><img height="17" src="https://cdn-icons-png.flaticon.com/512/7562/7562024.png" /> <strong>Espanhol:</strong> Intermediário
