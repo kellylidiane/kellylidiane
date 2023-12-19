@@ -22,7 +22,7 @@ Meu nome é Kelly Lidiane, sou desenvolvedora Web desde 2017, já atuei no backe
 
 
 
-**Linguagens e Ferramentas:**
+#### Linguagens e Ferramentas:
 
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/js-icon-2048x2048-kbwt89q3.png" alt="Javascript" /></code>
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="Typescript" /></code>
@@ -34,7 +34,8 @@ Meu nome é Kelly Lidiane, sou desenvolvedora Web desde 2017, já atuei no backe
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" /></code>
 
-**Idiomas:**
-<br /><img height="16" src="https://cdn-icons-png.flaticon.com/512/7561/7561893.png" /> <strong>Português:</strong> Fluente
+#### Idiomas:
+
+<img height="16" src="https://cdn-icons-png.flaticon.com/512/7561/7561893.png" /> <strong>Português:</strong> Fluente
 <br /><img height="16" src="https://cdn-icons-png.flaticon.com/512/10598/10598913.png" /> <strong>Inglês:</strong> Avançado
 <br /><img height="16" src="https://cdn-icons-png.flaticon.com/512/7562/7562024.png" /> <strong>Espanhol:</strong> Intermediário
