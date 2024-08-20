@@ -25,12 +25,12 @@ Here is the <a href="https://chromewebstore.google.com/detail/nkeghlggapilpldhol
 
 #### Tools and Programming Languages:
 
-<code><img height="20" src="https://static-00.iconduck.com/assets.00/js-icon-2048x2048-kbwt89q3.png" alt="Javascript" /></code>
-<code><img height="20" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="Typescript" /></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" /></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="Typescript" /></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="HTML" /></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="CSS" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" /></code>
-<code><img height="20" src="https://static-00.iconduck.com/assets.00/react-javascript-js-framework-facebook-icon-2048x1822-f7kq7hho.png" alt="React JS" /></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" alt="Git" /></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React JS" /></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="Jest" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" /></code>
