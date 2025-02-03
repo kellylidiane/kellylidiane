@@ -15,9 +15,9 @@
 
 <img align="right" width="200" alt="GIF" src="https://media1.giphy.com/media/2TjUu76UJQgSKFMNmI/giphy.gif?cid=ecf05e47xq7ef9mdwenpfxnd5olfhowt9digpn9ssr9cfv7y&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-My name is Kelly Lidiane, I've been a Web developer since 2017. I've worked on the backend with C# and Python, but currently, my focus is on frontend development with React, mainly. I'm also an enthusiast about web accessibility ♿.
+My name is Kelly Lidiane, I've been a web developer since 2017. I've worked on the backend with C# and Python, but currently, my focus is on frontend development with React, mainly. I'm also an enthusiast about web accessibility ♿.
 
-Here is the <a href="https://chromewebstore.google.com/detail/nkeghlggapilpldholmggooimblebpgn" target="_blank">link to my Chrome extension</a> for calculating contrast within accessibility parameters.
+Check out <a href="https://chromewebstore.google.com/detail/nkeghlggapilpldholmggooimblebpgn" target="_blank">my Chrome extension</a> for calculating color contrast ratios, ensuring websites meet accessibility standards.
 
 
 #### Tools and Programming Languages:
