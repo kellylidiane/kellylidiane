@@ -31,7 +31,7 @@ Check out <a href="https://chromewebstore.google.com/detail/nkeghlggapilpldholmg
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="Jest" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="GraphQL" /></code>
-<code><img height="20" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Node JS" /></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node JS" /></code>
 #### Languages:
 
 <img height="16" src="https://cdn-icons-png.flaticon.com/512/7561/7561893.png" /> <strong>Portuguese:</strong> Native
