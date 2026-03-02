@@ -13,7 +13,9 @@
 
 <br />
 
-<img align="right" width="200" alt="GIF" src="https://media1.giphy.com/media/2TjUu76UJQgSKFMNmI/giphy.gif?cid=ecf05e47xq7ef9mdwenpfxnd5olfhowt9digpn9ssr9cfv7y&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<!-- <img align="right" width="200" alt="GIF" src="https://media1.giphy.com/media/2TjUu76UJQgSKFMNmI/giphy.gif?cid=ecf05e47xq7ef9mdwenpfxnd5olfhowt9digpn9ssr9cfv7y&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> -->
+
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2p4dXltbWd0MmEyY252Z3N1aXpobWxnM243cTExbGh5bHRpNmtsaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cmCEsJZHYBPels360q/200.gif" />
 
 My name is Kelly Lidiane, I've been a web developer since 2017. I've worked on the backend with C# and Python, but currently, my focus is on frontend development with React, mainly. I'm also an enthusiast about web accessibility ♿.
 
